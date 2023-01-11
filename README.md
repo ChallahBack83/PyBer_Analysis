@@ -48,7 +48,7 @@ weekly_pyber_grouped_fares = pyber_grouped_fares_date.resample("W").sum()
 weekly_pyber_grouped_fares
 ```
 
-![Fares By Week Dataframe]()
+![Fares By Week Dataframe](https://github.com/ChallahBack83/PyBer_Analysis/blob/main/Analysis_Challenge/PyBer_fare_week_df.png)
 
 With the weekly fares now gathered, I could create a multi-line graph that showed the weekly fares overtime for Rural, Suburban, and Urban city types.
 
